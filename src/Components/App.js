@@ -1,8 +1,9 @@
 import React from 'react';
+import PostList from './PostList'
 
 const App = () => {
     return (
-        <h1>this is app component</h1>
+        <PostList />
     )
 }
 export default App;
